@@ -1,0 +1,10 @@
+pwntools==4.12.0
+pycryptodome==3.20.0
+sagemath_bliss==10.3
+sagemath_coxeter3==10.3
+sagemath_mcqd==10.3
+sagemath_meataxe==10.3
+sagemath_sirocco==10.3
+sagemath_standard==10.3
+sagemath_tdlib==10.3
+tqdm==4.66.2
